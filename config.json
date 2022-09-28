@@ -1,5 +1,9 @@
 {
-	"ip":" DREAMherobrine0.aternos.me",
-	"port": "27964",
-	"name": "king"
+	"ip":"DREAMherobrine0.aternos.me",
+	"port": 27964,
+	"name": "afkbot",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register 12345 12345",
+	"login-cmd":"/login 12345"
 }
